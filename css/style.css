@@ -67,9 +67,11 @@ header{
 }
 .col{
   float: left;
+  margin: 15px 0;
+}
+.col-left, .col-center{
   background-color: white;
   border-radius: 10px;
-  margin: 15px 0;
   padding: 10px;
 }
 .col-center{
@@ -80,8 +82,12 @@ header{
 .col-left , .col-right{
   width: 20%;
 }
+
 .box{
   margin-bottom: 20px;
+  background-color: white;
+  border-radius: 5px;
+  padding: 10px;
 }
 footer{
   background-color: white;
