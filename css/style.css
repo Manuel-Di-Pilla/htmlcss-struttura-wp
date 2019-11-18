@@ -25,7 +25,7 @@ header{
   position: relative;
   height: 80%;
   background-image: url(../img/foresta.jpeg);
-  background-repeat: no repeat;
+  background-repeat: no-repeat;
   background-size: cover;
   border: 10px solid white;
 }
